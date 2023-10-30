@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "paintballcontroller",
+      "maintainer": "Starlord",
+      "websiteURL": "oswego.edu",
+      "email" : "skalkows@oswego.edu",
+      "platforms":
+      [
+        {
+          "name": "Paintball Controller v0.1",
+          "architecture": "samd",
+          "version": "0.1",
+          "category": "Contributed",
+          "url": "https://github.com/kalkows/paintballcontroller/blob/e2e56bc6345588a52394acd67002c91e5c52ee13/pbcont.zip",
+          "archiveFileName": "pbcont.zip",
+          "checksum": "SHA-256:5CA8D2E745CBFD6C21271A66E807FA00BA8BEF66A18AB345236889D0B02B1570",
+          "size": "1919834",
+          "boards": [
+            {
+              "name": "Paintball Controller (SAMD21)"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
