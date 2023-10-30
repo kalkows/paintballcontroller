@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "0.1",
           "category": "Contributed",
-          "url": "https://github.com/kalkows/paintballcontroller/blob/main/pbcont.zip",
+          "url": "https://github.com/kalkows/paintballcontroller/blob/main/pbcont.zip?raw=true",
           "archiveFileName": "pbcont.zip",
           "checksum": "SHA-256:8B2E84901E075320229A5923B495F6B283E1501A7A7360F6B28254284E9FB8CC",
           "size": "1911432",
