@@ -9,14 +9,14 @@
       "platforms":
       [
         {
-          "name": "Paintball Controller v0.1",
+          "name": "Paintball Controller (SAMD21)",
           "architecture": "samd",
           "version": "0.1",
           "category": "Contributed",
-          "url": "https://github.com/kalkows/paintballcontroller/blob/e2e56bc6345588a52394acd67002c91e5c52ee13/pbcont.zip",
+          "url": "https://github.com/kalkows/paintballcontroller/blob/main/pbcont.zip",
           "archiveFileName": "pbcont.zip",
-          "checksum": "SHA-256:5CA8D2E745CBFD6C21271A66E807FA00BA8BEF66A18AB345236889D0B02B1570",
-          "size": "1919834",
+          "checksum": "SHA-256:8B2E84901E075320229A5923B495F6B283E1501A7A7360F6B28254284E9FB8CC",
+          "size": "1911432",
           "boards": [
             {
               "name": "Paintball Controller (SAMD21)"
